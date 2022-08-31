@@ -1,0 +1,7 @@
+
+ol.letras{
+    list-style-type:lower-alpha;
+}
+ol.roman{
+    list-style-type: upper-roman;
+}

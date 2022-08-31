@@ -1,0 +1,15 @@
+div.peque{
+    background: url("imagenes/f01.png") repeat-x bottom, url("imagenes/f02.png") no-repeat left bottom, url("imagenes/f03.png") repeat-x top left;
+    background-color: skyblue;
+    width: 210px;
+    height: 113px;
+    border: 2px solid blue;
+}
+div.grande{
+    background: url("imagenes/f01.png") repeat-x bottom, url("imagenes/f02.png") no-repeat left bottom, url("imagenes/f03.png") repeat-x top left;
+    background-color: skyblue;
+    width: 440px;
+    height: 350px;
+    border: 4px solid red;
+    margin: 20px;
+}

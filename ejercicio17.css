@@ -1,0 +1,89 @@
+body{
+    background-image:url(imagenes/ac.jpg);
+}
+div{
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+}
+div.main{
+    width: 700px;
+    margin: 50px;
+    display: flex;
+}
+div.back_mantel{
+    background:url(imagenes/back_mantel.jpg);
+}
+#a2{
+    background: none;
+    border: 1px solid black;
+}
+#a2 div{
+    background:url(imagenes/back_mantel.jpg);
+    width: 60px;
+    height: 60px;
+    margin: 20px;
+}
+#a3{
+    background-size: contain;
+}
+#a4{
+    background: white;
+    border: 1px solid black;
+}
+#a4 div{
+    background:url(imagenes/back_mantel.jpg);
+    background-size: contain;
+    width: 60px;
+    height: 60px;
+    margin: 20px;
+}
+#b1{
+    background:url(imagenes/dh.jpg);
+    background-size: contain;
+}
+#b2{
+    background: white;
+    border: 1px solid black;
+}
+#b2 div{
+    background:url(imagenes/dh.jpg);
+    background-size: contain;
+    width: 60px;
+    height: 60px;
+    margin: 20px;
+}
+#b3{
+    background: white;
+    border: 1px solid black;
+}
+#b3 div{
+    background:url(imagenes/dh_2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+}
+#b4{
+    background: white;
+    border: 1px solid black;
+}
+#b4 div{
+    background:url(imagenes/dh_3.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+}
+#c1{
+    background:linear-gradient(to right, yellow, green);
+}
+#c2{
+    background:linear-gradient(rgb(167, 113, 113),rgb(82, 17, 1));
+}
+#c3{
+    background:linear-gradient(white,green);
+}
+#c4{
+    background:linear-gradient( rgba(255, 255, 0, 0), green);
+}

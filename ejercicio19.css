@@ -1,0 +1,10 @@
+body{
+    max-width: 680px;
+    margin: auto;
+}
+p{
+    text-align: justify;
+}
+table, tr, th, td {
+    border: 1px solid black;
+  }

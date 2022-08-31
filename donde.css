@@ -1,0 +1,12 @@
+table, th, td{
+    border:1px solid black;
+    background-color: skyblue;
+    width: 480px;
+  }
+th{
+    background-color: rgb(1, 36, 1);
+    color: rgb(181, 238, 167);
+  }
+td{
+    background-color:rgb(181, 238, 167);
+}

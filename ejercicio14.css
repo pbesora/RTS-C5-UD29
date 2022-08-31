@@ -1,0 +1,20 @@
+body{
+    background-image: url("imagenes/pinguinos.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 30%;
+}
+table, th, td{
+    border:1px solid black;
+    background-color: rgb(255, 255, 204);
+}
+table{
+    width: 500px;
+    margin: auto;
+}
+th{
+    text-align: center;
+}
+td{
+    background-color: yellow;
+}
