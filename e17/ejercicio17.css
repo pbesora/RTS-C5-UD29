@@ -1,5 +1,5 @@
 body{
-    background-image:url(imagenes/ac.jpg);
+    background-image:url(../imagenes/ac.jpg);
 }
 div{
     width: 100px;
@@ -12,14 +12,14 @@ div.main{
     display: flex;
 }
 div.back_mantel{
-    background:url(imagenes/back_mantel.jpg);
+    background:url(../imagenes/back_mantel.jpg);
 }
 #a2{
     background: none;
     border: 1px solid black;
 }
 #a2 div{
-    background:url(imagenes/back_mantel.jpg);
+    background:url(../imagenes/back_mantel.jpg);
     width: 60px;
     height: 60px;
     margin: 20px;
@@ -32,14 +32,14 @@ div.back_mantel{
     border: 1px solid black;
 }
 #a4 div{
-    background:url(imagenes/back_mantel.jpg);
+    background:url(../imagenes/back_mantel.jpg);
     background-size: contain;
     width: 60px;
     height: 60px;
     margin: 20px;
 }
 #b1{
-    background:url(imagenes/dh.jpg);
+    background:url(../imagenes/dh.jpg);
     background-size: contain;
 }
 #b2{
@@ -47,7 +47,7 @@ div.back_mantel{
     border: 1px solid black;
 }
 #b2 div{
-    background:url(imagenes/dh.jpg);
+    background:url(../imagenes/dh.jpg);
     background-size: contain;
     width: 60px;
     height: 60px;
@@ -58,7 +58,7 @@ div.back_mantel{
     border: 1px solid black;
 }
 #b3 div{
-    background:url(imagenes/dh_2.jpg);
+    background:url(../imagenes/dh_2.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -69,7 +69,7 @@ div.back_mantel{
     border: 1px solid black;
 }
 #b4 div{
-    background:url(imagenes/dh_3.jpg);
+    background:url(../imagenes/dh_3.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;

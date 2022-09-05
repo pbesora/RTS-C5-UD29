@@ -5,7 +5,7 @@ table,td{
 }
 table{
     width: 575px;
-    background-image: url(imagenes/pattern.png);
+    background-image: url(../imagenes/pattern.png);
 }
 tr{
     text-align: center;
